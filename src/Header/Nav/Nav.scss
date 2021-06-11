@@ -1,0 +1,22 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    li {
+        margin-left: 35px;
+    }
+    a {
+        font-size: 18px;
+        line-height: 22px;
+        color: #333D51;
+        &:hover {
+            color: #004FEC;
+            border-bottom: 2px solid #004FEC;
+            padding-bottom: 4px;
+        }
+    }
+    .active {
+        color: #004FEC;
+    }
+}
+

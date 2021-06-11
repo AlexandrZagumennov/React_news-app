@@ -1,0 +1,32 @@
+.news-detail {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-detail-title {
+    width: 350px;
+    font-size: 60px;
+    line-height: 73px;
+    color: #333D51;
+    margin-bottom: 30px;
+}
+
+.news-detail-source {
+    font-size: 25px;
+    line-height: 30px;
+    color: rgba(24, 36, 59, 0.5);
+    margin-bottom: 30px;
+}
+
+.news-detail-content-image {
+    width: 730px;
+    min-height: 380px;
+    margin-bottom: 60px;
+}
+
+.news-detail-content-description {
+    width: 730px;
+    font-size: 25px;
+    line-height: 35px;
+    color: #333D51;
+}

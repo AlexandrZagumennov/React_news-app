@@ -1,0 +1,43 @@
+.developer-info {
+    width: 483px;
+}
+
+.developer-phone-number {
+    font-size: 60px;
+    line-height: 93%;
+    color: #004FEC;
+    margin-bottom: 50px;
+}
+
+.developer-name {
+    width: 150px;
+    font-size: 25px;
+    line-height: 30px;
+    color: #333D51;
+    border-left: 2px solid #004FEC;
+    padding-left: 23px;
+    margin-bottom: 25px;
+}
+
+.developer-email {
+    font-size: 20px;
+    line-height: 24px;
+    color: #333D51;
+    margin-bottom: 52px;
+}
+
+.developer-position {
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(51, 61, 81, 0.5);
+    margin-bottom: 25px;
+}
+
+.developer-stack {
+    font-size: 20px;
+    line-height: 24px;
+    color: #333D51;
+    span {
+        color: #004FEC;
+    }
+}

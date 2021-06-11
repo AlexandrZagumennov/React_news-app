@@ -1,0 +1,15 @@
+.overview {
+    margin-bottom: 90px;
+}
+
+.follow-news {
+    font-size: 20px;
+    line-height: 24px;
+    color: #004FEC;
+    margin-top: 60px;
+    &:hover {
+        border-bottom: 2px solid #004FEC;
+        padding-bottom: 4px;
+    }
+}
+
